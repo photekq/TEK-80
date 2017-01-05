@@ -1,5 +1,5 @@
 # TEK-80
-TEK-80 keyboard case
+TEK-80 keyboard case - Solidworks files.
 
 This case is fully functional. However, I wouldn't call it good. I cannot recommend that anyone get this made without at least 2 adjustments :
 
